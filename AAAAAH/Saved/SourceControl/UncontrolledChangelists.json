@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/MetaHumans/GIULIOA/BP_GIULIOA1.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Clickable.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Green.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Red.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/UT/JRUWL9PVCAH3XSUMXP4CC1.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/XT/9ZXHDK2QRGJYXV6INKF2CJ.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Hghlight.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/VI/ESHAVRHFZFA2JDR9ZAQIOE.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/arietr.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/Image_0.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/Image_1.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/arietr.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/Material_1.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/Material_0.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/aritr2.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/Marble_01.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/GWC_Marble_01_BaseColor.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/2ux.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/16/IU32BEDS8KCRBPZIQZ3317.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/D3/60ORICH9SPD98P0GDB2WTP.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/ZJ/CEKUX211RY3JWJQZDLNYUU.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/MetaHumans/GIULIOA/BP_GIULIOA.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Jacopo_e_giulietto/Content/Ariete/Procedural_Marble.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/character.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/MetaHumans/GIULIOA/BP_GIULIOA.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/MetaHumans/GIULIOA/BP_GIULIOA1.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/MetaHumans/Giulio/BP_Giulio.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/MetaHumans/Giulio/BP_Giulio1.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/franc/Documents/Unreal Projects/Progetto_inglese/Content/Cursor/FX_Cursor.uasset"
+			]
+		}
+	]
+}
