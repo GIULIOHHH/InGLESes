@@ -1,9 +1,6 @@
 
- 
 # [AAAAAAAAAAAAAAAA](pornhub.com).
-https://arfc.github.io/manual/guides/git-lfs
-
-Things to steal:
+# [!](https://arfc.github.io/manual/guides/git-lfs)
 
 # Script
 https://forum.cgpersia.com/f101/narrative-quest-dialogue-editor-210356/
