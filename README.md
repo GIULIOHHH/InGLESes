@@ -1,4 +1,3 @@
-
 # [AAAAAAAAAAAAAAAA](pornhub.com).
 # [!](https://arfc.github.io/manual/guides/git-lfs)
 
@@ -20,4 +19,3 @@ https://forum.cgpersia.com/f101/archviz-interior-vol-2-a-219451/
 
 https://forum.cgpersia.com/f101/ue-5-2-operating-system-simulator-3-0-1-a-222097/
 -	Per metterci i video di netor.
-
